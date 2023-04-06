@@ -1,7 +1,7 @@
 
 # Basic Italian-English Dictionary
 
-Laravel Basic Crud Example and Searchable values
+Laravel Basic Crud Example and Searchable Values
 
 - Jetstream
 - Inertia js
@@ -10,7 +10,7 @@ Laravel Basic Crud Example and Searchable values
 -for valitadion; sweetalert2
 ## Demo
 
---
+![demo](https://user-images.githubusercontent.com/91142275/230493060-23acc4c4-e6cc-4aea-8724-e1c66b85d6df.gif)
 
 
 ## How to Run
